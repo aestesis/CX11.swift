@@ -1,4 +1,4 @@
-module CX11 [system] {
+module X11 [system] {
     header "macros.h"
     module Xlib {
         header "/usr/include/X11/Xlib.h"
